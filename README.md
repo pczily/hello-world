@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+My first repository.
+Just try to edit it and commit.
